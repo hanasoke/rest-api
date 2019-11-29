@@ -1,0 +1,27 @@
+[{
+    "nama": "Hanas",
+    "umur": 20,
+    "nim": "1820010087",
+    "lulus": true,
+    "hobby": [
+        "Coding",
+        "Travelling"
+    ],
+    "pembimbing": {
+        "pembimbing1": "Listyo Edi Prabowo",
+        "pembimbing2": "Tirta Akdi Toma Mesoluhu"
+    }
+}, {
+    "nama": "Ferdiansyah",
+    "umur": 19,
+    "nim": "1920011187",
+    "lulus": true,
+    "hobby": [
+        "Gaming",
+        "Editing Video"
+    ],
+    "pembimbing": {
+        "pembimbing1": "Listyo Edi Prabowo",
+        "pembimbing2": "Tirta Akdi Toma Mesoluhu"
+    }
+}]
