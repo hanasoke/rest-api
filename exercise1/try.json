@@ -1,0 +1,37 @@
+[{
+        "menu": "Beef Teriyaki",
+        "harga": 39.000,
+        "kandungan": "Daging Sapi",
+        "Informasi Nilai Gizi": {
+            "Kalori": "210 kkal",
+            "Protein": "19 g",
+            "Lemak": "90 g",
+            "Karbohidrat": "12 g",
+            "Natrium": "770 mg"
+        }
+    },
+    {
+        "menu": "Egg Chicken Roll",
+        "harga": 30.000,
+        "kandungan": "Daging Ayam",
+        "Informasi Nilai Gizi": {
+            "Kalori": "290 kkal",
+            "Protein": "12 g",
+            "Lemak": "44.5 g",
+            "Karbohidrat": "44.5 g",
+            "Natrium": "44.5 mg"
+        }
+    },
+    {
+        "menu": "Sukiyaki",
+        "harga": 56.000,
+        "kandungan": "Daging Sapi",
+        "Informasi Nilai Gizi": {
+            "Kalori": "90 kkal",
+            "Protein": "5 g",
+            "Lemak": "2 g",
+            "Karbohidrat": "12 g",
+            "Natrium": "750 mg"
+        }
+    }
+]

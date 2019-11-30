@@ -24,6 +24,8 @@
 // xhr.open('GET', 'coba.json', true);
 // xhr.send();
 
+// menggunakan jquery
+
 $.getJSON('coba.json', function (data) {
     console.log(data);
 });
