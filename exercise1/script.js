@@ -16,6 +16,8 @@ const food = {
 // mengubah object menjadi json
 // console.log(JSON.stringify(food));
 
+// mengubah json menjadi object
+
 // menggunakan vanila javascript
 // const xhr = new XMLHttpRequest();
 // xhr.onreadystatechange = function () {
